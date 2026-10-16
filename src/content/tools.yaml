@@ -773,7 +773,7 @@
 
 - id: rowsafe
   name: RowSafe
-  description: Apache-2.0 agent and CLI for PostgreSQL backups, point-in-time recovery and restore tests through a separate hosted RowSafe service that requires an account
+  description: Apache-2.0 CLI and local MCP for standalone PostgreSQL health checks, diagnostics and tuning using a database connection, without a RowSafe account or dashboard; backups, point-in-time recovery and restore tests require an enrolled agent and a separate hosted RowSafe service account
   problem: Need PostgreSQL backups and automated restore tests?
   category: tooling
   url: https://rowsafe.sh
