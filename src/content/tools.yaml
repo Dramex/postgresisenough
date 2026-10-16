@@ -771,6 +771,14 @@
   url: https://github.com/Portabase/portabase
   toolType: software
 
+- id: rowsafe
+  name: RowSafe
+  description: Apache-2.0 agent and CLI for PostgreSQL backups, point-in-time recovery and restore tests through a separate hosted RowSafe service that requires an account
+  problem: Need PostgreSQL backups and automated restore tests?
+  category: tooling
+  url: https://rowsafe.sh
+  toolType: software
+
 # MCP
 - id: postgres-mcp
   name: postgres-mcp
